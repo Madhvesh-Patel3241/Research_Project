@@ -1,0 +1,26 @@
+// Q1 Journal Architecture
+digraph Ethereum_Mempool_Architecture {
+	rankdir=LR
+	dpi=300
+	fontname="Times-Roman"
+	splines=ortho
+	nodesep=0.6
+	ranksep=0.8
+	node [color=black fillcolor="#E3F2FD" fontname="Helvetica-Bold" fontsize=11 penwidth=1.2 shape=box style=filled]
+	ETH [label="Ethereum Node"]
+	MON [label="Mempool Monitor"]
+	FE [label="Feature Extractor"]
+	XGB [label="XGBoost Detector"]
+	ALT [label="Alert System"]
+	node [fillcolor="#FFF9C4" fontname=Courier fontsize=9 shape=note style=filled]
+	STREAM [label="Transaction Stream
+(15 tx/s nominal)"]
+	RESULT [label="Detection Results
+(Attack Classifications)"]
+	ETH -> MON
+	MON -> FE
+	FE -> XGB
+	XGB -> ALT
+	ETH -> STREAM [arrowhead=vee color=grey30 style=dashed]
+	ALT -> RESULT [arrowhead=vee color=grey30 style=dashed]
+}

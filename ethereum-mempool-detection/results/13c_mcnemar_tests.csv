@@ -1,0 +1,4 @@
+Comparison,XGBoost_Correct_Only,Other_Correct_Only,McNemar_Chi2,p_value,Significant
+XGBoost vs Random Forest,4,4,0.125,0.7236736098317629,No
+XGBoost vs SVM (Linear),7941,718,6023.476613927705,0.0,Yes
+XGBoost vs SVM (RBF),3649,703,1992.8825827205883,0.0,Yes

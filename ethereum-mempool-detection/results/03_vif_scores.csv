@@ -1,0 +1,13 @@
+Feature,VIF
+value,2.2754119596381264
+nonce_conflict,2.113085955990975
+gas_differential,1.324000969448473
+data_size,1.237867656095544
+submission_frequency,1.1453729068947032
+nonce_gap,1.102243550383259
+recipient_similarity,1.1005408599669004
+gas_price,0.6876780389615522
+gas_limit,0.664464211305561
+arrival_interval,0.4696298239203097
+gas_volatility,0.1125073595507576
+balance_adequacy,0.0

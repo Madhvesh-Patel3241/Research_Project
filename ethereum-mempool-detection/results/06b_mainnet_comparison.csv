@@ -1,0 +1,4 @@
+Metric,Mainnet,Dataset,Ratio,Status
+gas_price_mean,25.0,19.678832398249366,0.7871532959299746,⚠
+value_median,0.08,0.01,0.125,⚠
+data_size_mean,180.0,9.627296739738176,0.05348498188743431,⚠

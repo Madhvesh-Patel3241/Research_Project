@@ -1,0 +1,6 @@
+,precision,recall,f1-score,support
+Normal/RBF,0.957,0.9994,0.9777,15977.0
+Double Spend,1.0,1.0,1.0,322.0
+Race Attack,0.9953,0.9953,0.9953,214.0
+Volume Attack,0.9969,0.8161,0.8975,3905.0
+Hybrid,0.997,0.997,0.997,329.0

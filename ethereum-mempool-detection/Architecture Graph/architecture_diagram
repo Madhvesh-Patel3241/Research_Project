@@ -1,0 +1,49 @@
+// Q1 Journal Architecture
+digraph Blockchain_Security_Arch {
+	compound=true dpi=300 fontname="Times-Roman" rankdir=TB size="10,10"
+	node [fillcolor=white fontname=Helvetica fontsize=10 shape=box style=filled]
+	edge [fontname=Helvetica fontsize=8]
+	subgraph cluster_0 {
+		color=grey40 label="Phase I: Offline Model Development" style=dashed
+		DS [label="Historical Dataset
+(Ganache)" fillcolor="#f3e5f5" shape=cylinder]
+		FE_OFF [label="Feature Engineering
+(12-Feature Set)"]
+		TR [label="XGBoost Training
+(Bayesian Optimization)"]
+		ART [label="Serialized Model
+Artifact" fillcolor="#fff9c4" shape=note]
+		DS -> FE_OFF
+		FE_OFF -> TR
+		TR -> ART
+	}
+	subgraph cluster_1 {
+		color=black label="Phase II: Real-Time Detection Pipeline (Mainnet)" style=bold
+		ETH [label="Ethereum Mempool" fillcolor="#e1f5fe" shape=cylinder]
+		MON [label="Mempool Monitor
+(Async Listener)"]
+		RT_FE [label="Real-Time
+Feature Extractor"]
+		DB [label="Rolling Stats
+(60s Window)" fillcolor="#e0f2f1" shape=cylinder]
+		XGB [label="XGBoost Inference
+(Latency: 0.0035ms)" fillcolor="#c8e6c9" style="filled,bold"]
+		SHAP [label="SHAP Explainer
+(Interpretation)"]
+		DEC [label="Decision Logic
+(Threshold τ)" shape=diamond]
+		ALT [label="Critical Alert
+(Block Tx)" fillcolor="#ffcdd2" style=filled]
+		LOG [label="Audit Log" shape=folder]
+		ETH -> MON [label=" JSON-RPC"]
+		MON -> RT_FE
+		DB -> RT_FE [style=dashed]
+		RT_FE -> XGB [label=" Feature Vector x"]
+		XGB -> SHAP
+		XGB -> DEC [label=" Score ŷ"]
+		DEC -> ALT [label=" Attack"]
+		DEC -> LOG [label=" Normal"]
+		SHAP -> LOG [style=dotted]
+	}
+	ART -> XGB [label=" Load Weights" constraint=false style=dashed]
+}
