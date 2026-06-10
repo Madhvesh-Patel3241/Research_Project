@@ -1,0 +1,23 @@
+{
+  "transactions": [],
+  "anomalies": [],
+  "block_stats": [
+    {
+      "number": 24090703,
+      "timestamp": 1766678543,
+      "tx_count": 242,
+      "anomalies": [],
+      "normal": [],
+      "predictions": []
+    },
+    {
+      "number": 24090704,
+      "timestamp": 1766678555,
+      "tx_count": 313,
+      "anomalies": [],
+      "normal": [],
+      "predictions": []
+    }
+  ],
+  "temporal_patterns": []
+}

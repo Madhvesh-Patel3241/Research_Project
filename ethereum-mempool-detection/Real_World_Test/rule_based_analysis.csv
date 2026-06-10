@@ -1,0 +1,501 @@
+hash,gas_gwei,rule_1_conflict,rule_2_redirect,rule_3_aggressive,rule_4_bot,rule_5_flashbot,interpretation
+e134c25f891d848212171e25fa9e1237a398d7fe2cdf5000d2f34cfff843a3c6,0.065698905,False,False,False,False,False,Benign
+b397acad509b1c3464104340c2b3d3ffa0c54ad54fcb6356d962b9832bf02cc9,0.065698905,False,False,False,False,False,Benign
+b1811730d53694b948a8a49b65326bdba566cc0315213aba29b31d8ccaa37ab9,2.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c7856c1d6c00019e7daa227be8633aa0f7f5f0b5a265646e2ecedd9eaae85201,1.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+349072fc18803c483ce24f1a5542c0ef6b1e29f523ad1aeee2ae652557dd1f7e,2.165698904,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b488981cd81508947b46c6a40f58dd7990b600955044a2190701bc32fb4b41fd,2.165698904,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f7a4fcc1fc21f26330869a3a88eab3a00fce8025f9a1099ad9e461dad00dcd00,1.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+419a580ba87615dc1d8d8a3a0cf6b186013f8d78daf0018a1915b8b0bc5b0291,0.688565311,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+833519e02f0217a5c76274789bb5c739043a426aa182367d9d84b0a72c33d178,0.173675549,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3c847f20e03882f5275593389763ecd2f89383a9544b23b43c249063165b2312,2.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0421ad1f44bf71deabfc1bfcf4c782ed50cd3698d976a0d747c916240af58344,0.917795039,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f096ea2d331363dd632b8c9f72d4b4ef51c456631064ac97fee5e7f2c8c2ae37,3.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+58ccd00c5ec24deea76fbdcd4e6f8f1763e773361451da5e0a304ae6dc9514ef,4.98928387,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ebb7fcaaff518d5d9da24c25048bbcaf61440fa3850d6e676145a82375022bad,4.988285955,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6296f3cfde46dc58b87414fde7fa1dad77ea5ad68c2ef67c8776fe0ac81f2ee3,2.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+29a9392ba91356858c77c943c5bbced56a884588ab91e6535c3556cb1eaeeee4,2.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c01a686535804d9155619ae8c42b34c66253dace790a7786d9e1c5087401c299,2.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c275b5c40076bbcc2911a6678de3c317f15b1423b5b1da5aa371bbf83522185e,2.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+07954b185c318d2b1d93fd19c4372fb599872b3eb6eb7180a682acc07b2dd6b6,1.565698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ed55eac4261d7d8774275042027d8b85d79a9dd414a712e7138a3df88fda0ed6,0.465698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+290e167cdaa7039c8336092cfd66c540a32255620b606360f152fa7d5313dec9,1.145698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+408e4cccdd8955442fd1fb440dd8986ba9933a233a5ef4aae7d63a945d728d07,1.065698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+13c5202ac5e136ce8e872eda057e21c47df1446cda7c994025ebc77715799d75,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2e0f358973fc1abcfb2430c3b17c91bb836f6eabcd6c56b612a21bf1910c11a6,0.165698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+04034c0b27a77c356d61d1369f76a1ddc8fce633a4151c7df9881c59a8df2659,1.465698903,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+92d92fddaee027ce296d4fccc526c877097e402854976073b0cb276f2cd7648b,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cc63b5432eafada7a8580afcd031b0ea0403b83368055cb052209e5052f7f6f2,1.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cc9381f0935be2b14b4077c6733c43ce96bac4d46ef80c228e3f137f633af78a,2.163430729,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2a4a32e9fb3134eacea530f5b28afc68c2bc0f67cd695ae3d49246181ced9be0,2.163430729,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1a4e7165daabc3a32ca5edd4f54b049d02efee02644d43c41122480a8700f532,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0f69b06b5c18975ca079042094120e391f3beda7fdd2fda46b9f300bd82c5a98,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+159cd2ee8a0ffeebf70e2537d2b948de7e41d86f1f12a68d1d4335073ccd0f82,4.991161935,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8dd34fdf1538a7914e202be869020a26082d691a69ccc11f4e2ea88e545bc8f5,3.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+099ae61fa62780887b04fa6f8612eeef23921e4a3f20118bd1e0b6e119e87de7,0.173675549,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bb17f19815d1939d6b0b7ddeefbe975354a94a39eba2c047de1885a716c8085e,3.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4f36aff791f01c8aaf07d1bb98464b6f00551349aeaf16fb0245ea054c1775dd,1.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b1af941665477a7bd2ccf13e33d8b0111f61edff7ef72b143cacbbe3dda14e9a,2.163430732,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+64af407687372b6f24a934c71cf4fd47473225c8cf5cb0a4f7f7e9f20d96ae24,2.163430732,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7031613cc5a69ab45b74c828cbecea1a1cf6df5489c265af1a21939bee66d53d,1.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+65b5adb91560617d8b9399c6ddee5b11d20fbf532dda30a08d75daad6c71678a,2.163430729,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b3cf0b19770684a185e7b7f266298c63bd16ff6054654947adebeb3c2c25a431,2.163430729,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bfdeca1a9c523f671487ecf61a460b49dceb1cfd8c6e162fb9636262ba035a9d,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e946a4454bf24e178b2e28951a5b159d33dff2dee5f18a142992f3b5cb80bd7e,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a7a9e1e7f94cf2e0a05fc9a0e1e3b6de3fd0453317db1cfcf76b65115ca448fa,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c43ee0379a352641b4b91867da4e5dc6edf729e075b30b0f36f322ef9b35d614,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+993593d5c81b9bb2f4d8848c8aa78afa1b9e59986661275fef852f2c613a3143,0.081330205,False,False,False,False,False,Benign
+16babe9b17548eeb396543c1171586e31eacf4e0191b7298801d44087a663c5d,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5fc96c1acc68e89a4edf03386ecb2a22452455bdbad4c86c9f2b1ff94b30e6db,0.063438702,False,False,False,False,False,Benign
+b7181db2ae1cd56119a7ed9a2915f59cbc3e81da0844c789adc19fd155f6095b,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+23a8a12a563e4005c56d1d8d194676322fc5917c3d15370b22c8915b9fffed2c,2.063430728,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+23b4b89861c75c50025bdb725f09c07e19908d602ba5a96115c0c9ab81aca53d,0.063440689,False,False,False,False,False,Benign
+f97a19207ebf8ec1963bca7898239907f8e38f83dbb15457839e25b5d424c82e,0.063440689,False,False,False,False,False,Benign
+a95496850f8b57275bf8c992b62e83ca1f4666f5e83e15412dd35dfd80b8e489,0.063440689,False,False,False,False,False,Benign
+edc4f4d186dcb5461e3df85d2f805c3f46dce91088344b0ea389b588e8baa489,0.063440687,False,False,False,False,False,Benign
+5e9da4c270c5b477ad27ec86ddad6ea37f1f6a2b46b6060dfa2c247c47cd8daa,15.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b11e48f7c2a97413c818fac88e0ec74c84d753d3246095ba0537a57af2c7e3f0,0.090694049,False,False,False,False,False,Benign
+22f13cb710215a8f7d2416600df61a3eaace5be4f1b11934d41e71d629f8259c,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cdbfa6462b459a063c9208609c9bfb1854fd0416e5a5930af7c319a8e7731d45,0.063447158,False,False,False,False,False,Benign
+95b3bec9f2a8f079ad0e75ef7833d5150b273a5520508b175a1fabe9967339fa,3.759071996,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+43de38af1c8d8462f5396eebf97f5b16746b1d6a6430de37e0403e12e9f776e9,1.04,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4463d1432430d8a98e4f77e4cb9bf3b73f63d972552bc36b1fe88d1e56b9ceef,0.963440689,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d5c612b2bb7104064a634603bab9d170b220ce72559bfdab48064dfb9a85bf9d,1.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2946e89e100263953f56e32d320cbe320451a9a19bb9c7f939193e4ae4169e75,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+28f9e74fa6b579fc7d2e43961ff114b78920d771e1417c18b44066870753b1cf,1.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+df720e1f169e9ed4e0870a56f973e708923a3e7f20baab4e189b0b09e0036075,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cd407d5edaf696fea486e88ff421d6e9a467c31ac3a3e0a3711935e9e5a846ef,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c0ff47aaf6ed261fd26b9853840ae60ba296cdce0b154d01c3818fd2f1589a12,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1cd2924ffa3c08ea4b23419c7e0fb91e711a267596300b063722cc0748e7a900,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+debaf7bafd526429da801c8bba0f1e7238ab5a87b220b8588973b69465f4943a,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+df61eb5515c8332f21fa19128a2f750ec514a76b816856a87ee159253fb999fd,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+31c49de9f458bb6deb10aa120ba2623b14d26bc679f50e38c17ae15678244a10,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+187f1d2f9288001968c369dc3dfe34e89fe87a4732f843d9d66f3382ababff8d,0.563440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+86802422ae08468d15a6a09946e506aef5b2b3bef7c9f66ef674e5af52cb6a18,1.463440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+10981f25341d64133af7361f25f036c90ba6baec403370e141697ee5d49d20cc,2.063440687,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0998a741a55135b8174948669fab8bca37960f8e070041412b0b903118079c0d,0.063440687,False,False,False,False,False,Benign
+8db6008336d4e421e2a5b7f0ba2905d062063056b443147ed09e23121935e5fc,0.061356066,False,False,False,False,False,Benign
+9645362c7c70eea73a59f9be47380a58873124415cc9932f8a3dfb1405528778,0.061356064,False,False,False,False,False,Benign
+1dec4da319eac2ee1502557babf9d9f09f6f1f8c81d8602a5307b4a15d7b64dd,28.554415987,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a8bbcd074d69ea4dfded6d62da12cec410af9bf893689594ff6fe769dd8f1fba,0.061356064,False,False,False,False,False,Benign
+06c3c7ea209c144fadcab534eb082d6f37f694153871ebd52358a269b12226c0,0.061356064,False,False,False,False,False,Benign
+d2ae3df1f3ec2635b88d6cf6765a124562f8808fdd77e5be707b52d34af5b27e,0.061356064,False,False,False,False,False,Benign
+0baba73e6804bf53a0159226729d5ec6e34b03bd979888ee6d597c871f92c12f,0.061356064,False,False,False,False,False,Benign
+790701c2295b46c8a431639d031479bdb48742a3f62e681d85e5369c9029e4aa,1.061356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+62953e0dbb6e17e1e5275b7e332b568022fc2142afdde399e82f744135c050f2,2.161356065,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+29ad915d6ce723cf18d255a77c8321e0cafd36e06f77791917850232cce50fa8,2.161356065,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dcae7a0c7bc234a18b10fc6ec493dfa83882cbbe41cf718fe5275d9e5dbfd66f,5.061356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4aa1d7fdbf656a684793cf0caede92b669c5e27033f19e8fdb2fcf48108a9ac2,1.482028813,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+69b6bb826574bfbb6f3750cc7606c43d0056c2bd4958de18cd6f570b4c2a7b85,0.261356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6274e2e3fbd5c06b3695e24b3133a1b3bf842f44f067f824e4c945409e791bea,1.08372856,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ccf048e7a608d0b073994a54c6bdc033bf812fd6fb5ee75d50a05cc36d4ddc79,2.061356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+abc3905eb3f7af89c876dddffdfc2d5d917a22ef796d9d26a7d1bbd8854c3ecc,3.061356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4936f0683a3a4b428b05ce756253e71c7660f8ca7738d8c15f3de3472c715c6b,0.773492269,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8dbeb4938956ef02f210318f29a7a2611fedfd1542e57a4754f2c2a9a15225bd,0.086356064,False,False,False,False,False,Benign
+cd2e66ace3e637901f547bfb2e511f5da4de1cf942a61cd5fd4d05489c49cad6,0.086356064,False,False,False,False,False,Benign
+e913776402e26ae75262f1a625535938f595ec819ebd9a4637ba4309bbd6fe45,1.631775291,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b3162257ae257fc2a6b0cebf87a1c9cc5ac17111c84f301bcdfefe04dee4dda4,0.061356064,False,False,False,False,False,Benign
+5f3dc963b611968b184c8ed3b2de289cf526425f5776ad3dbc99ce818db69fcf,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+62fb976f4b67818ca0cdbbc893156066903c2149cd86939fbb54c3031b778aba,0.261356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f0a29011390218069ae498762f3a6b60d1e083ca81d1fbc50fd489c3f7390cfd,1.076116873,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b23e51039a4fc577e134a0e3b59438688dfa4610d3c605e2c2a8f1dcd780a0ba,0.561356064,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4b4030468a4d5b3e5c8584d166163d05f8c585f654ce946c0cdf730ffec65fbf,0.057864971,False,False,False,False,False,Benign
+350a85457b72a32dc6a133f652db043cbc0f40b8b5718dcf7bf915e5f5cc9997,5.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+90622338c2a64153c2cf34bc81f7c757a0f0b35ad695ba8cbaf8b819662571af,2.057464968,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b0f13c7c19ca4f3478961dd6db16f820d88395c512aecf23a8538d010c957ab4,2.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+70845a715bdec26fb025c87081a097d7eea242facf51172b7fb49f4e7ca6751b,0.250703601,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+62210a5ed5fb7e651cf08a975cc5d926ee4094d158584b7122b01669074ea1cb,1.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+65540121ab1ab04e6952d171ece48b92c1825fdb88d5d2519dc1649976bd129e,0.164848216,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7aa5039aca704508b17e186c3c87f160e7f06a499658dba04bcf91b20f391aaf,0.157864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c86d6f42e23a8437a303a56b6a71bdece24d247ea1dd5100975028ebce794a4d,2.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cc7f917f44a5ba7f2284ea45e495743ac9d563d5a6b2ec7f3e9f8aeb3612748b,2.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+012f5eaf13b9fb0f37a5d30bebc95787c2fe8176702147ea8cc00c982a429520,2.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+699a7e1f43e59b942f32fd751d357c7609add84728c2e347ec7cbbd9f35b5563,0.557864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d2795819caa2d1eafadc718d74ba2e612f73039ea8e0ae6904b60be1164633b9,1.057864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d1c604bca2332316c32f2edb4315ef5e4120bb694403bca7171501d6cf78ac36,0.136864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+42c9b20672fb19d65eb4baa9afad585f8b4d93149cbcaeae9f2ca0d8ba765732,0.557864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bc68489864b3cec831a6f62e6c002f8ba4e6e869f86e66bcb0f277ebda683690,0.557864969,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+73e3d7e40dbed80425a28ab3da08e77d3383b2dd66156557a7ba9db91795ceb0,0.250703601,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c57a6b4f54ce69ed5b0a938685b03de6fe418a8454afae34d57ec48473381baa,0.130351869,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2232398eca70280ee8c7a0e41bae4f898731c8a152380e28a94a37a4e11d45d1,0.065698905,False,False,False,False,False,Benign
+abc27e4c315d4679195f095c08826e691cab6249501c1e4475b392c05891c590,0.065698905,False,False,False,False,False,Benign
+4905a1f13e12bf591231bb8398222c72c3a26208bb699502c36082c47c3cb78b,0.06343073,False,False,False,False,False,Benign
+bedade100586dccf7a7b1f107f3e1b0eb7532ae15ec608e20851a4c0935dd18e,0.06886497,False,False,False,False,False,Benign
+f2473e49f8486852372cf1785492afceceebbb5ef38062f911c7d596204728aa,0.05929032,False,False,False,False,False,Benign
+991180c365f9c058a9739e18dfb2df3f6a1af338480326de232201ee87b7f38c,0.057964969,False,False,False,False,False,Benign
+7bee6cef1ae2e6e2495799b7bea541b8291a45e31a07c3f243d72fd08927e33f,0.057865969,False,False,False,False,False,Benign
+1916b4ddb69674dc0b79546a4a64f215e070a49f0a7dc4b29cdaa022e19f6069,0.064491519,False,False,False,False,False,Benign
+02171b1ad2570e529f92f7ab3542e3d13f4dea0b7ce8f6344daa149a156487cd,0.064491519,False,False,False,False,False,Benign
+07be0dd183d162710c69e6562618d9ef5d7c0ae2b4e93e574178c9ab4a1901c4,2.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fc8d850a951651c97416b0c0804f8bc5d86818bb21d20129aa4a9c1558407bc1,5.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+de38b6e4ad86247fd9564c73d82f1218152f58ea1c9af67996e398375a6d305c,3.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1e8c3196ae6a17b39504247190596a8910d21955570ead08fde4a0ced773922a,4.993550849,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cff36fe50a533f191560118af4783bffb44d15206a1af03721b725183cf43f49,1.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d9a40f2c663406cf409edfe292b67dda819420d831730fdb28de4969c7b69274,2.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+33eff421bfef68bea89bda8a56dd3c4e5563882b0c3272388203e4760732f52b,2.164491518,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+80b0c18f02c3c2e265701f001dbaebea4a811b70f8469b5570bec1e7c530c13c,2.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ebcb299f0513fbe2a7f1fa38bf7de2d711d0a9b7b805aba124af07ae99439534,3.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c06252133b8306682ac5e2c1b193dbac24a21dc9a26cc15eb01f89f14b6e16b9,1.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+152d67bfba9173ea6253607a183444071bbd9e890af9560cfcebaadb21ec669b,2.164491518,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6a97ad8469d28bc01f9e3df71b90af775157b02fc542347edd8bb074ab1b0dff,2.164491518,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+35aaaa6ef52aee0c573b730073cfe1fc809ef71d3e881cad50b3405cb88540a6,1.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e1c1c0a3ca7168e8a9a784ca256510ed6c5da2da27d06776876749eb0b05714c,2.164491518,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+99f0510ac5c73bca1ba42ea42287fc7a8e07e0cbdeabd42bee2ff2a1abae22b5,2.164491518,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a673d70223168cc8b582f135844ce9966383624308354db8b66685fc8c4891bc,0.564491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+76e9647c840ac6355a04509b33b3e081fbbb345a220d07aff767dcb973929bb0,2.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+daedacd2c3c6102c9c1e41635ec0019bc51caa49064bbca7c39b8aaacdbf7bcf,0.064491517,False,False,False,False,False,Benign
+f92af39ae6313915485e2ec64a7565548e587885c037c028cacb657d27788435,0.064491517,False,False,False,False,False,Benign
+09f8b67217a15caa5e82d99f2582d39e3ab6609873dc2de081290f0dea8a5ba0,0.070559475,False,False,False,False,False,Benign
+895788d7965e785c6af855e8536ece6727bdd6f69d021ed423606a321c5f40a4,4.425628945,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+933d735a6e0fbc44c65cf820520cbeca67cb52574656fd4d40e52966b40d1c25,2.064491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3f80a4ff0fd307fba0828eb91b693f30b058a70572baa89525bad27d500b78f5,0.064491517,False,False,False,False,False,Benign
+89f249732c422a44cd6a56bbd612cc29502c13c3551da8bde62d54c830bf6c62,25.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8d05067aa69a349559a37773a89ffc694646a68537d055651ac48be7caa85566,5.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+248b09afcb4a5548284bd1ccdd9e6b45a9b438acdc394b3ebb7db009f277a702,16.070679536,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+77a99f7e35871334502b9be815fb64670f3778f1fa00b9dcb148f0648980b7d9,0.061428831,False,False,False,False,False,Benign
+a224a959107a2e8812f982a1ba5716969d04f8779b9247f5639cf40cce062b46,1.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+73adc8084a1cb84e8eb44de5328ffb33d640c7bab86091ecd46e12fd6f448ca1,0.505931217,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2608881bb4bbcbeb992587acff220b1b3e7e37b9608583a6f92f48141bfa88dc,0.061428831,False,False,False,False,False,Benign
+333f6356e83966b94d0fb124fa3560e55b3b475429dd195456157f29e109f75f,3.291428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f1c7ad452bd5f17d101a9a3f93532586414ad17ecc9c4f9535b32aa9dcf45464,0.461428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+929ba72f2d29202e689d2aed95a6554bf45f958540b099d7e19d758d9f9935e4,0.081428831,False,False,False,False,False,Benign
+7c111ac02eed31792bd53284340f79c261e64db027692c1cb6256bc04a03db52,0.561428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+de50aa63f959c78ee27b49dd5a26ec47827a736b1e182aadfd69d4666d2d1ab9,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+66a29dd9c8c642308f25eaef4712f8a257fbc18fb6655fcd0645c5146a36a28b,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+75ed800dc001651ae7900a504fa724430dbfccc02dd46e3b1ef106c88e2ea608,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e610bf946ffb33b8e5c9a121a72d8a85c65b6d87dda010e99e278846de1dc91e,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e3675983ee05e9730408affe3c998f8a0ef07a08536c811ea2e7df59578f0e0c,0.506367304,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+915c8af4c3186a17a02e173a0f2bf30eba68df118109bdb888e3f5d928a6fafb,0.061428831,False,False,False,False,False,Benign
+e8e04a36a16c3db6de695c11427b54b13ec01e1674f54bdeb14e696f64431b3a,1.644396532,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8208af308d0522eb92ea1afe56e506cdfb6dc9ac5dc3228d47e4dc9b5ec1247b,0.061428833,False,False,False,False,False,Benign
+a79253994c29f00083b786177a554f2cf722017ac5aed91b335844c33a9c457f,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e1520e8f62d39a11175055b821a2f420a5399ffad5d975a7d1685a1f22fa629a,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c09433f3f67a994a0dfb81f1ac31b6a0d496fa2ecf047385dfd39e7b2bdafa96,2.061428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3c6efad7de93347e66b9c1685ff63fcb99e271424496ef88cad86275c10ce60c,0.227428831,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+628083d35ce4525c4e093aad74067560026759b59eace6fe1ff3a57bda3362e9,0.510472817,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f739b9034b3924a61fb8adabcc1225762f075f9a33700c9c904fed88605430a8,0.061428831,False,False,False,False,False,Benign
+a53094dc8b45b42d9704becb42106f3086380cb4d55f2976a0e24eb39640496f,0.068872367,False,False,False,False,False,Benign
+3985c2f1f9b3062ccbeb11dae3b09ce9f1dc85382c9986dd61bf570812b89f3e,0.068872367,False,False,False,False,False,Benign
+523e216aadc1484f1040e4747d709d92e5a6214b5a46792872f8c541581aa5c1,0.071464431,False,False,False,False,False,Benign
+8d4bd8b122621b4237df5d75cfd172063e70580abf47385650c1d2932fcd0f5c,0.068872367,False,False,False,False,False,Benign
+905bbd107cc1f7d922e0c0b873bce4ce4f1a96a7b60a96a9be268cf48ff80339,0.889650808,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c055c4aa3d6ebcde77b724734973fe98d4daa4db0675a55dcbbbdb8093b561a4,6.44045545,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a1253d552c4de4a9d3c914294b4588cee34141b36c7a3e10f7f34044b873832c,1.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+39952f0fd931300a9c8bab64f41e84842805ccba728474f0057007db159b9ffb,1.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+71c216b8973dbbdd53c0037959161bbb205df0d1b6eb1679ee47ae360d112975,2.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+adfcffdd3e63f0aa8e48addae0000398463224f0db93eeff13d954ce15379c33,15.181423809,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c418b9f6c729d3aeabc18fe258e749f160a834a9b9fe5bc49fd1649796982296,0.840286711,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e1c0105eb57f281739389004df20f50871f5a54f8f25c8421caf7d0239344323,1.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f41c7d707b31093f7deb554822113f9ec14511070803f78b99aff5b5c9caba4e,2.168872366,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dc96438b653e530b83a5bab179367ab0787b9a73cc9f7d1dee22263f56845f93,2.168872366,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+10981a5f5a6c4e2eab2e80829f7952a570f52ab7ccb43a01f2fdb2288348f58f,0.621072365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f64b317404a85399bd8a16397b2be726001c69e348d49ff69ef4c3e8434f3703,3.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e3efdf90130e24ca208b6506a2c636b0b8f775667a9c5539b15b8822b28e3b8b,1.404642427,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+121e0e7c11a66ca417e5e7d4ea145202d5e98d131b2a3ce2e1c857b795542098,3.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4b3e4a7a86ec0e516892a6884107dcb04ea5c3ffb13889b0bb62b4b48f50494d,1.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fe50aee11649dc506008fd60d7f06ab808f01ac9d8b81b559c0bd496e8306925,1.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1e17b0312b1de56bbe7abd005472d8da1b60b560b6c83c9e75fe23f6b1f781b7,2.268872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+59cce83407a6be5e4191d819f1b15dd26f5b7f2d7ef335071aeebf97b3284d2a,2.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a9b027e3cf6e38b41b62431c1c71b009aaab9ee7ae2ecad1672055a20bfd5883,2.068872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2b8042cebfcb5e62273d01f2bfa083176b145491ed5c7a07937a17e9744a887c,1.568872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b0d5bb1a69ab4ef722d078d6be2a06dfd39ea164e23ebe1addfb10419907a028,0.564491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b0bde1067ef8a3196c420216dfeafc0afc36a086a9de7ea6b257d339e08b6c86,25.069826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bf03e4ffe76cf74d2a1e7d14aa02cef6fedb74ee7e80658774f222c15d20d4a4,3.069826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+06c2c2e937ace4f1aea91471cbe9d806f5580afc693f724ab5febabec4ee271b,2.968214844,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5e3eec266f3644435c8da0eba0281929bb444d56309de0e634d1022dfec0b5f9,1.069826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+31594e3f10dbd447d9f55107e0fe49643f4edef6a6828cf1ae6045223509a58f,0.069826093,False,False,False,False,False,Benign
+ffc51eab247f86acfa08041e0c0d0d780c83e71afb7f025e2976e87a46128a6f,12.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+767a6c504ede50259f16af742439f5c59ffd946c6e4d89b78fd0788495fd12dc,0.969826095,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d07294c599a1bc0a87d652de7c926242a1cb87f2f7a6383c9f632079eebc7a6c,0.09478302,False,False,False,False,False,Benign
+2b1988fd99bfedcab83361f8f8be9826e0b07b02c59e4052679afc9544407a5b,1.569826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d20267adba2c906cbdd9aad525527dba9b1830a4d046f20ba2924bb8e4d17205,1.869826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0b64419be2b3407145db3b22a00f189d7d6056a393af878838bd855d1cdf08e9,12.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9a44e9bdcb26e5d0097496eaeedb5023ba0bf476c8399037e2f281e27350feee,0.669826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+66ec7c9bd068075addf5d1f20beed3a7052b6a21ed30d440573cb563aa1cde56,0.069826093,False,False,False,False,False,Benign
+175f984a80590d44736285fdb9299ac6ea8db2e67df2960f1b8770370f9be1e8,3.069826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4009286f2a1fcea5eac6e64f344243e255238251ce96983905e86f4ec635381b,3.069826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4512eb65c820fde24085e3bdcc27e399c5ad186aaa46dc9c57a29de57683a27d,2.068872367,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a44bbc59102c7a0f0ebe3cd46c770fed9855d2794f4205c288d96dc4e6ea4f91,0.569826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a6fbb3c0d22c65f6ae188558e334cc97a8553ebafaffae6f8754a53c03a94431,0.069826093,False,False,False,False,False,Benign
+cd9c20727ed04d247cfb0a2799041028975b5e193e142c9ad0d5b2f573e55789,0.069826096,False,False,False,False,False,Benign
+4e5332d8855d77a60386179c70acd07b1ef38f1af1d1d677e3e99b58d5fd995e,1.035951922,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+98fe0a39f47fc48640c47be658d16f800bde3482c9abf1a24dcd9da59fcd2d63,0.689491517,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c73140c129d27adcf56bc542e747d181f92676daaf747936b541190e4bf51430,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a860eea0c3b72e8f563a8530192e6dcf29c0765a6426370a70f8ffbac4724bcd,0.073706239,False,False,False,False,False,Benign
+d817922b38ed686bd25931d45187c0c7c6dc84bffcbfd465cc8c3d6bb800e9da,3.802378881,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fb634af88112ffa31640e628b6ca9eb94a0c1466aebe88afc1bb79fd61c414a5,2.069826093,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d96a72094b7e7b799bac26f0cb3666533c8800209b88d7c639a9c4c191d1fb10,0.078286256,False,False,False,False,False,Benign
+6387145a511c906da7c96d7d255745dd18f6a96fc8a182c0d5a0edda93e848d7,0.123714597,False,False,False,False,False,Benign
+02f490e50d81bf2604fe48863f21aa2e5c1a6f112ac03862341c60885a4a0390,0.078286256,False,False,False,False,False,Benign
+d3013d477313204b3b483b6417a2b51b34d4d84934f94f280b8825bf12cb387a,0.078286254,False,False,False,False,False,Benign
+6beaca3286203396be0b4958541c5000f25aa299895140ed9da266c48acdc4f3,1.852486756,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7bd4d4d98e346ab2e026f41f24009061b7a00c7b3da0661c42f4e395dc6894d0,2.12807722,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+df10f8702b797f907f5cc4f3cd70d62eb62c8f7ba5242961f9d4e9b3845d3283,1.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+81a868253a184d1523e2fbaa492958640fe7b6e341cedafad9123f61684563cd,3.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f7a337cdf973a1112f9f9b671cc76963d158d86fff509591427f0555cf21f980,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3cd6dc6f4c7a8defd92c5da068a7656d3d55bb8e94505da251a700ad0398255b,1.069826095,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7d22f7ed1fef2a8f442eb538e19cf64f9867f2721cfbc72ac9254eb8f70bb1c7,3.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b7022fb128a9dd8b0120e243f16a875d90f33db3ce0cd46b3720aa15ef2ab7e8,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0991a5439aba861900e9c1c79cc627ab365c35e34d2a81a6222a8e9608fd9e0d,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4f15f262de25cd8714419166eb02afb371e1b6069d3096dbb9422116bf74fa62,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3e1d98b6dfc717ef658d145f7031decb1de95fed10acfb23b950a6b37d472ab1,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0afdcbe9f520f51a769be6b8d36b1068a5a23fbcd5113eec531ff6a978cc4f1b,0.569826095,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3375272ce97f9ab9c746e8ccbeab086b14213c3806b0be8e483e0a64cafdd1a4,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+050ae156d8e14a2e1128dca1cfffbc98c867df1ef7b817d111b13e70a82a045c,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e503a50b8edf7624fefc0c48d76a4558960426aa7985d89631cb5586e86fcd83,2.078286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+38ffd493e3abdf99ca9e9da5329abd9a585aab5cd94dfc9b492b73812c561520,3.065698905,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4d3401d87e4f4071374289e521c10d1908c839b4dc51fb8543c83bd94cbe388a,3.065698905,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b78f455c4acc202a05cc8a6d0f5afe7148e8b099a088d35c9c4d1267157da67a,3.065698905,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6f5484c98a7d6ad75dc91d24292a686268c180f6ae87a5a5d86734f428cd5225,3.065698905,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+688e698e3fdc2db87d17965c63569ba80568de61a80dd809df3573ef45eb209b,0.578286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bd8d1910c5029aa6028c39290b0e5fa8897e4f678ebdb379e6a337114a77f6dc,1.578286254,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+190d37f0748f2d901540bffd1d8b7bf1db979c16ff5150ab07bba54f175b3e2c,0.075305788,False,False,False,False,False,Benign
+e8df96f7a1fe27b7f04fed3bafc76c0a6341eafeeedb14d06aa35f5374e5d3eb,0.075305788,False,False,False,False,False,Benign
+8e03e87e8e61b1c0573bbe84c27906d3b0cb5bb4b99d2377c9793aa802bf27f4,0.075305788,False,False,False,False,False,Benign
+f753f667eb24e7f2c62f90004e523d9e9736742d752b66525217a8edd469f28f,0.075305786,False,False,False,False,False,Benign
+86a40c8d4617a2496c40107f1bfac1ab6895a5c20626d90335ac61a26ed37123,0.568872365,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+84397238020f15de7114d363d96a8b4a49199a510236581d1bf98c899b06ce6f,2.288579607,False,False,True,True,False,Aggressive Gas Bidding (Likely RBF Winner)
+49c6fb6828e126ec4ce583189a013946dc53d85af699153357994f3132e88656,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+deeb85f0a526861281887cda9f465e9054a709383e4c405a253196580f867ac1,0.08728,False,False,False,False,False,Benign
+23c63a9911b71cb337a81f68c0b8e385d743c0f7f0fa443b908f1c6b88474cd0,0.175305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3c32af5acc619a209b584e3f3186dba24c39730d8eee11093655167500c9e4c2,0.078176282,False,False,False,False,False,Benign
+00fb964448f86539a07fe7f9f0394949da0849ed15301e13110259d022a90d6e,0.077866076,False,False,False,False,False,Benign
+547046a933a5f1db47bba65f31b9028fe7eb80a9750c56b132c320a48eae4dbd,0.075305816,False,False,False,False,False,Benign
+79b59eea352e9df51082007de60c7bb39ee6250e7946ea0361a3f8e22bb627a7,0.075305816,False,False,False,False,False,Benign
+03439e29392d4928307becdd3039f790c1638ea240a18f47a2fc1cfb77628986,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+24b1cdf4996ff93780091d2f874004951c13f943f3ee16503ec7a45094cd19a9,1.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1fe7a8a43f31399831ce83f2f16a5045789a1d1fb7d6a0f94adedc3385a6fe5a,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7b024565a94e0a2558876b16e0562a1aed01d4849e616e0c1aea6f41d95d7718,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bd4cab35de6ffd1ca8b71286445519c8977a91b27700ec0fa68eb9c13278b962,3.067783296,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+912d2849c629c0933e032b052de45211e1e1e78f3b4126e99016abb68c4ca5e7,0.222426156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b5e7d9ba24af33c4ac4b0423d87bac95190be9c802c3b66e1f33d780a65bc353,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b74fd155271a3d468d63dc33a81b754065fe9fef4bbd2a04d6eabd5a023b8802,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6117d4129fa6a989a6efd901748fc33fab550059a092d9deaaf4e5e00466cf2f,1.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f51123ce068a6bdde1195ac3b88d40bdd103af50ccad310074677fec33a890a0,0.575305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8cf304b1ab5902828f3a381f35e52362c4405b4636048a6aeb6ff120f762083a,2.075305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d44729c44e611792a5904fb9cb1019c5d8d5e9b74fae6c3bed1839c2dd81ab9a,1.575305786,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2dc2a881faaf3eaefcde61632363cf35800b34520a900726fb07f1132c80c549,0.080536858,False,False,False,False,False,Benign
+96f44d28aeb1ededbe66083d19f008fd9e0cb9e2040e0e1394026e8d1847a4a8,2.526999465,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9e17afb076c02c1f6e79e947a4f97b106cca221253a1ff9fa5df216e6ec34f65,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1beb346d10a1555a7c38dcc7eb320c0718e2fe07c9663483c4d839e64a94f658,1.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e0d1f1356a98e23ba6f0ecd58f5891c708ce9588b2b09c5408cbc4bcba953db5,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e9433d1dc82ca33fe44b10fce434c89e8fe2db0a3b5a4198b9a9417ecfad7b6c,2.180536859,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e40541529ee096d3a1f2791340bc2852321818da9204e5b0e14f3bd63f448d09,3.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e6b5185da67558cdaa1e5de6c7bcf517179ea047a62903e2620129147f9d0c4e,3.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+65026c642d8327eda732fe8c2e53a3fd8949ea82042d21f5faf86c3d5f342d46,1.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bca08222d0efe8edc17527a7ba870dc08eccf71429735d9607e4ffbc9fed7c65,2.178554355,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5b58382a64e0d4f0a0caa2b394d8f247149de1da6f5281b67471e03f306aaa5d,2.178554355,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e62f10c1197d6136c3d5b304679abb5ff9e402f7d365744f7001780c942fb4d1,3.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f5161a4808de642fd6cbd1866c5366d101118cf3ccc1201f8ce83bbf062aadca,0.188067436,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6264e495174a4d3f1df8d03f19d7b26ac41e66ff26999a5c7df93a1f363907e7,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+faafc8751e7f3a90d8e9c2047fcef19787e4a43410826fcd011ba8705b8359eb,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ef61738619966b38761a6eb15ad02afa98a0a4517ecb285d674966acc36d8644,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b478781d33723a8d1a2355c3dfcdbfe88174122b691b6b3916f74f77fc017b3d,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+21411668e4cbd5c97a2e40686f98df658bdbe3fb43a7eba36820579205d0e91c,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2d1f6f713d3e68d907e3f6975b98325443713d520ebd50c34da2d3c94c312240,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+42a0b35a91402f359fae3f843576a15bfdaa9c20969e78fe904285d87e89dfd9,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e4b0b1dd8638ed31d91199a4d295ddf38c759214425535a85edcd69e1a954242,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+df06abd8abcb90b5722b08cf7fbcb5171d7bcd9fb813ffce35e267688d6ac389,2.037297819,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b935a5233cfd7b44fae15e8a4a26933682d5d57b5ed341061c0193bdf0073263,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f6d36e25a9c1aeef39ddf1af51af08e024c5647402702d9c4dc5f74331556f19,1.580536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+45f7bd1bdc239b97f30454cd2d1bc911ed0470d203954aeff6eb074924e4aed8,2.080536858,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+53b4b92ed6768f39bdc2caf6ab4128b90a7bf9f0ca4ecce8983be9bc2e8a1a32,0.077290064,False,False,False,False,False,Benign
+270871e8943fce8c6c7e4e32295cd262f89fc51b7b6d0e94020df0973b291763,0.127290062,False,False,False,False,False,Benign
+04eacf25b0d0b4ba203f351ca70468c8b6c17ea47ca7a5d9ff621b858db8032e,0.077290062,False,False,False,False,False,Benign
+eb18815681afeeee92b05b1bd635b177b457a86489561a1aea9c44ec16a6f2b4,47.619047619,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+72c826493b91f914552b66562bbc716fd08275669d31b525a0cd3c0936433aa7,47.619047619,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c79a34ea92ea3b9ff98c9466743dcdb214f5d56d3ddaaf56e6fbc00257b1f77e,47.619047619,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+53e322a8e39dfa6e9eb3b30cab8481625513c64e960c72551c6f4925c33de6c5,5.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1177e03aaf7bf672b4858c06a8e06d2e3928a66ed8372ce992bba0cca3f9cbc4,5.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1b22d74b0abfa9591bb3f0f283b57562a07566dca21bbffbf7e5fc0609fdae11,3.709146252,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c12b27f508d3f5c52e91dca525e3f1c60984ecf2de1ff1d11ba1c56413123291,3.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+65534febbb1c318fb98ff8fb53158cb282072b7f66f692788ac1cb0d854d11a1,2.275,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+edbe682ea63cfbb88134ce4b9a0de70c1f5424ed295c003ac502ce966df2ccba,2.177290063,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b5c738bb2dc4dc15f2aac0f1dd2da9962606ef86e04bff538b10f9bac9eff780,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+511ba0055f3c1e2aafcdbe39cadf519f2ef4f356de26e4a2ed43ea359b535e5d,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+32f724d2f2f90d21c356635da33f6de267aa09770e14d30e8c71422be035fe9a,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+774363dc62d811439e9b4c771191c135886db3fff41a814a59f018f3fb136c19,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+226b5decbef57f83380634378fb761cc4c67f70c116ddb59090c2b939907b2da,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f1cbc1216e8fb78cf056f4179f03cc1fbbdcf1fac412a41d481ea94cf3a5dc3e,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+837fb2940dbcb9f7483c92b7160f2fda0252fceb1b46436e9fc6f5af8774db59,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+751cb90384250fabc62b90b3b2fc7ac90c470c55b0861c2363c41fd908be57d0,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d9c84f2f10e9f2b1d98bbc1a11db08d99a1c1769ae22e0d85b93946ca3f5dffd,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bb2b66e6711b1575773715be802bb61bcc5b8750f2225e1ca1dec04e62cbb964,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+4a2fe90a13e8b704280385d6b7a9b83885c30721183fc44e1666fa0fcbafbd62,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cd24d00d65be53cb7da015591fd5988ca6fde97f7e86cc9406c980bb8af1d742,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fc0c4794780686f4f349b468e7874463fa67167c8f5e870276cca96f6e8995ff,2.077290062,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+19d5d1c5db1edfdf38b1af0e016a8f6552069ec761bd6893a52851bae21d14ae,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dbc6e5de1edccf7d730301cab40d0d2052e9f75b8ff95e96b7473f4f93036bca,1.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+936dbe4e11cb8e29ebb53c3c3f3cc31bf0b1307fc3a743be7076a0f8cbf297b8,1.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+283dd096619a46c292bf2222e95ad472d59c53e9fcfff7bf6ba6f80c50448366,3.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+89915fd454f21366e5d904f1eaf3c9ed18ed74d4fe497a3accd612485856590e,2.115167707,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ecef14ba86724779e88057fb5c6bba9bcd2429221b84cd6f3b67d866b0453b1c,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+244f43a0e7d4f47223dbd72b83489d3c62159d51029cd96fe383db0629373c33,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+91af0650b110c9bf86f2736e8a4daf7b1c6f0a02efa688d69d299c453e6f3dc0,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+da88c6c9553d6f9aea6d20f7f8321e7eec8e6e54300505a482c23c6b377db427,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a8150c9b0ae1178cbcd7ab7fa34dd161be5653ff3701d10f161ffbd1902cc84d,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7c7078696e570e216ac5342deb9ecba074704e03aee729fc51af187305efcb4e,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+335133a1ce037ca5b25d209146b6c43011ce3517105f07396dc0514e997e5c47,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bcecbee4dac9ae3147b8aaca52d3ae38d2637ebcfaa2295058ab200643218eda,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7c0933b73e65dd412894b6a3ee7d1e19919b82de55f973ba2e79b08e30e2d1f5,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+1faba86550a1319b9e4f9fb05049059c241e7250f471c06898e5feca7febea2f,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e9453ed511718d7e6ace65d05c11a215aa63aaf1af1a77d06a2619876d780803,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b27cf96f748b2903d06b4f03b2aaf5ca234fb69002a4af80ec5c30b2a50538d6,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+898b53cad31051eb03ad2833d24cc5997572369af3d7f05f64737691f2e3dd7f,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+44fda3d403cced2b124f2e81f88a52513e94e0d83ee87f5d5afaa72586617d78,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cdc2c75827994951119707498b624c52de3660aa17d28a93a40455f94552d129,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5a2d536cd1082e52408838d12650463d5488777e21cf89f1cf8416648f9d0d72,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+74a541baff85ffbad445305268902ab6cd810391f1c048c6c658500f1bae1391,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+829cfe7bbfb8295cadd10d9879acaeb00576b07045e0eec63f318d4cfbed7c8d,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+3951e6c2945b89429ed97732e0e215922f2fdf25763eca661eb59a0fef6f8fb3,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ef941d5317488502d37117698879e1d6c398cecad7e050c4907d35db392f128f,2.072733613,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+542b98184f0585d3b1143e09b1f8c13cfdb04e45c9763645da5f08f09b844158,45.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e5d3afe36590d43707f960d89f4768831301521f68d09e480b7e00cf4e0c9132,3.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+15c28af69176b2b3f303e01adc0222d1e9e6b776f01c6d308070024a43286fe2,3.045900893,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+f5dc42a231129f89377c4b06094b05f4c37c6a13160f2c6aefbe766f82195465,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e6378b8fb3b4f3edd000e877bde6e8a4131b04c30cca6d526b748f1a26e06737,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e30b08d0b394979b017b01bdbe921cebdcd4aa3d97ef3e8e7ebe43b7fdc581c8,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dd468d5ac7fa8ff5ce68cec69b2003268bc6c1c88afe6e68bbfd4b6412da3d19,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d08ed83a3e5456b185f749a7523d597652ac2fab7aa09361a45ba106312bf9ea,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b8fba81bd7723c266710d5ad667bd90b301ed5fd15fa32997ec131c08b1c9f33,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b0288c221c10015f1a8d5195452a0b41f4590e26ec4c81ba0bd58aacf447daf8,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b0275ec1649789645c937362fa88944d2b0c695a2fda7f58b6d84f10f9af4e54,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+91bc8fb636a7e80f2d2c5186905e6b7db2c85df79926ad0b81f36aa7cca77ac1,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8b0f69417e764e2f66c627d8cdc9e217b0f602bf9b463577c663c0efd09ed927,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7511551bed6a5801a2fa507f1180448cb9b77ce8c89ce0d864c5c5ff8c49b8a6,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+73536fb3d2a4a6462dbbaf1fc4f63d8f27e4b9c71624af9ca89d55d4b204c428,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+694216c4127de89748004db9705194a160a226c91602ffbfa7145b1942cf2134,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+64021a258aef38dd67572dd4c5c62ac0576addfd48ee0b2f17666da4df537e41,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+609fe98ab060280a1da09b8f05b6f1b6dd15163eac83307c6a0c442ee0e6d765,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c8a09108d5111f50d92897b9eee2a9fa46b6e902a23639e7902b31e1e08b9f38,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+317e1edfa0dfdcdc113884fc777c2a2fe16970cc43e7f7832d1cff51a0594114,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+05ec5d84d065279545839a8811628e644ac671d5d516269bcda2cf79591bb20f,2.066797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+03d583acc70b017340e6c0f6974bd04ee885fc1de93b9311655bad00b769a40d,2.060034945,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+173dd17d0aee4cb0ffa0aee5df7e321defbc09f597bf777c9330c95552e9d29a,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+72ca0010eb63c211db7b1b3095fc003e7b356bde0cb04f1ab6ebdfdc7c56de7d,1.707797402,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+6a05066a1bb48d5c9a024d34082fafda2bd504896ebf0f435af7fe6bfc0714ee,1.6,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+eeb94716af3410e0971e6cebf29e7acc93bfc0cf921506ae17f5a8fc471ba520,0.072080544,False,False,False,False,False,Benign
+c1c4d7c4b41ee95fd6a6236eab1511fc5182e9bfa31e8508339051d74113d3c8,0.072080544,False,False,False,False,False,Benign
+a9e1d82e10f52b88a920579da877e7ac694bd6f1566f5922e537cb2e17709ec5,0.072080544,False,False,False,False,False,Benign
+0ac187a7f1250b78d84cc6b1429fa3b04dbce04692edd33e7b9f4b60f4982249,0.072080544,False,False,False,False,False,Benign
+70f44a303400625dc2b5c586f4b6035d5934a2d7fc959d311ab810392b33789a,0.072080542,False,False,False,False,False,Benign
+bd307f2eff20a595623d4f0c89520ec9206980904543e0d9fc08b2a24183243f,1.572080542,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+918c7fcb9f6273d959e9d0789d1374b607c3da2da4111ba5be738933a6d45263,1.88848508,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+95f3955a2d3d1a9385c446a0f523a2165c011d6b32dd48fbe967f00653e64500,1.125632738,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dcf28bd0da36bd22b5b7ee860ec342a2c68dc7128241cad9e534a940d000663f,0.072080542,False,False,False,False,False,Benign
+8382fad2de8db1d02d7e475f17151d167161d8f75726e7ae98ca2ed6f24022e9,0.072080542,False,False,False,False,False,Benign
+22c54cb4f1547bcc6b30c5c69eeb8915542c1f3f977bd5c2597db5281f739b74,0.072080542,False,False,False,False,False,Benign
+55a864477b8ffb1905859c8dfc5fdcc8b0616c2de6ff078ce25209479ddd7fee,0.072080542,False,False,False,False,False,Benign
+6100bd7858ee02266e289243dab0f27d535dd7e283de36d858f3243c2bb55ad8,0.072080542,False,False,False,False,False,Benign
+59063adf859e2f0ef48485cdcc92fa8496bcbd9b6a22b125ce20d97c5a648f18,0.072080542,False,False,False,False,False,Benign
+ebadff988cd9c6f3e0a1399e6548aaab23e44dd45ba5135c238f2b014514a3c8,0.072080542,False,False,False,False,False,Benign
+c0629599403b571083bbb3afe9bb1d91c524130c90e14e5b5c9572c001229977,0.072080542,False,False,False,False,False,Benign
+7f62cef2220b8ed076540d01e8b00131e1a56fcca8ca7fae5e3cb4b1707c533b,0.072080542,False,False,False,False,False,Benign
+a9b5311460e5fb3fb4a56c0247035d6ab415a60ad469972a911e46783126c98d,1.072080542,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e1842a3d9b94c2dbccdd0a8a21172a276727d7655496e77d1cba422b328ee709,0.072080542,False,False,False,False,False,Benign
+1078d0ff344e43df8c0492103aab9d7a148aaf8d94f5391d222c717925bad2f5,0.072080542,False,False,False,False,False,Benign
+93b0266ea701ab221db6390a6a65ffb81b964b3720cfcc8ee36a7e146676297c,2.072080542,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+de52f2c4bf9def54b1ac01eae3940fa926c83d4fd8f585235ca13af33178cb2e,2.072080542,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+834993e3d492769d701084d8d096e23c64f526840171d9ff9e1db4a204bb9712,1.867145317,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+759cd36968ab982324e07d3993495ec9d7c6113d39b66709244a519ad25e6b4e,0.072080542,False,False,False,False,False,Benign
+6735f52cea769ac953d7885e00b93c27a6a682de50dedaa0451072fc617bde6e,0.151080542,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9a26aa7b0de0a33ab05d99c4567474cc5ab1938eee407171c7759d817b2e3bef,0.06858863,False,False,False,False,False,Benign
+9b720e8e95b8a5aed5fbd496247db03ad0c7a8ce2caffdcfbab87dfe8558ddfe,0.792885984,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+eb908d366dd2e9705acd936b05bfdb2a9e5a9e933b019b20a1f9f3bf3af64c83,0.068588632,False,False,False,False,False,Benign
+29680bc0e6f65fba2796bd937b86430a59107de7848299459387f9e627b14a05,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+814949b8fcfe186c98c339e53f357fd3f7f9124d1eb1b747602798a51d7289d7,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+8e798bfefcb120fe0321af9343519c4e2251934d57829b79ba612762b9eee0c1,0.968588632,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+39ad9317f943538c1a188e433067f678af93f360c29e0cbd11691a50317f137b,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e61e21e4958c36219f5e3e60a0bedacaf87f46e6cb70d5918af0f28db169dc8c,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+40294950b78ce214b5a149e7017a20113eabeda17e481370bdaa06776c2e4b76,10.078286256,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+502af8625399f9e9eb7f1fdbc36589f180c998b43dfc9d62b22157a781ec23af,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7a34950c52f3ead011a0da4b8ed07f4c58021ebb44d1a77a3cc85e5d5d00fb48,5.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+01352505bc493d00cd0ca3ba864171c0cbaab8ba6a2893f976af63462c19b602,0.918745041,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5877cf79449bd85114023dad9f959d9834cecc7c2068666e91018bff4f9ad0dd,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+a2e6bd81a8134544cf662fd0c4bb22eca5c32d51fd775253e0386d5a1d15aa95,4.925517383,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+983d2c122e8948d6d23f87c03d3d006b36d9ab20498309e12d94ca72f260810e,5.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e5c4552e0055d0b2c6fad0bd9c803141b43fe21e069cea8b0eef42480245f3bf,1.06858863,False,False,True,True,False,Aggressive Gas Bidding (Likely RBF Winner)
+ed076ddc6a926316723a2e112c06fe3e16c3cb2325d3f02f1275fcff48b91827,2.168588631,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+304eb6531e4f2e57eb5e85d0b4bce3da92573ea6c00330df0bd9c9d70173f210,2.168588631,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+91855b38e2442378d84cf1b546bfda67c3a316038413802a926dcbf21a614961,1.755249149,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fb7ab6a38be4736763f050b2f66cd53742c3adccdb4eebed90b9566ca743afe2,5.07858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+046f47197ec9452923de50b3fe08e9b6bf807f074cbb49bf01c7f95131c004ed,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fcb98575c568e1d4dd916c0e5b611cae0660b5e8536453651460b93dac6b1a52,2.037329842,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+fb259c9497f976e6380733a1b2abfcf2e2fef8ebda896ad195e1662228f619e1,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9ebf0a846db726357f01af208b6477dc5314d155746007809ba4f7e9c188b1c2,0.463072693,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dc48cd86166fa95bb300be717978b037898410b88c2fa10048a327b42e38fe64,2.06858863,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e14f1e2d49591b5a76e3574146f340601ec5c98d634210c1d5497ee8cd7aba0f,3.433739481,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+765bb2005da9b845f006c5fb1272665eb1e4598b9ec16f89bbc399646523547b,0.064918106,False,False,False,False,False,Benign
+d2b8a29bb8286c2d5282ed2da5a46ee97fd86181fd7760d3d7be55557496e03c,0.064918106,False,False,False,False,False,Benign
+48d63953337ca21093e65fb22ee7010ce25f58ee82c71df70f5dd3a7abf21cf3,0.064918106,False,False,False,False,False,Benign
+447fa7d06f2a05b68756468e1b8821c64cd1c2d55391be5a64f814b4957f0def,1.064918105,False,False,False,False,False,Benign
+618108b8f49f073ce7fd0b6cf79ea77a32a2e27fc898f94ed2540631432eb055,2.164918109,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+248956142bbe73118de8c38a0503b442d6f1231c41421d4c6242326fb3a12b06,2.164918109,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+737a6c3c419f29af9084d540ff011cca61f6185b503c2ce2e36e16307b528cb5,1.064918105,False,False,False,False,False,Benign
+c46428d4de7c2e8e78e0e021ba67b001d8fc3746e17f5527dba1ac521529f7a7,2.164918106,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9232de30a401c0b0ece0a8f2f5f5402770d7e938391683f5fb2437e2f7fbe3d6,2.164918106,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7245161323b0ba32b81bb9c97c63608a6714a44080d081a7739cb7750d8a1b78,2.064918105,False,False,True,True,False,Aggressive Gas Bidding (Likely RBF Winner)
+600dd2e417793c1f060e53a7ff7bd1d6a42900db076ce70bad3808155e469310,1.064918105,False,False,False,False,False,Benign
+1a4c1ac1e51e83c1931b8d4f9cea5bae7c3f9fc195511966e58e382d834de8ee,1.064918105,False,False,False,False,False,Benign
+83d9c92097ab79dbfe8065ffc1957ce14e816bc9136433fbc8dc19566a954a77,10.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d27a39420b019f5af4463cf5558117aa28fd0804dbd410eba5b08647afcc2ef7,0.264918105,False,False,False,False,False,Benign
+b0ecacf0df9555a9ae2161fef81ec986e32e21c73ca38475e16bc68b6b9673dc,1.095146315,False,False,False,False,False,Benign
+8f24c000dc85d54c9db04549778f1fc24c1083b5b60329b8b6c7234b611513f0,3.064918105,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9f775d8462ddbdaa5b6a8bb377209dcfa0f75d5fd27452c826697f01953bd9e3,3.064918105,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+18183e3cc2843e03441800409283d52cd8e815ba61343ac8a20a4c949beecbd9,2.064918105,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c8c40c0ef868638b71b35673b0f0fde1b795cede8d268c4ff692aec6413753d8,2.064918105,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+aa83a092a759da5b33e6e332312ff86c5eb1caa9e0d4eab61a29775bd43b30dc,2.064918105,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+82c44d9529f02587e494eb848a9507f574d5895039a5cbcde576f54114ad4893,2.064918105,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+cdf54e556cb3d3259843ec7731c750c9f6feca3f6a5f00c497c6896f8e675352,0.766318105,False,False,False,False,False,Benign
+01ffdd7455783234a468dbf4158518105b831cef14465559d7ebd264f703696a,0.064918105,False,False,False,False,False,Benign
+658b39e635b1bb055d369096d7e53983700e509e4cebc8d3c84fa10648e2571b,0.064921406,False,False,False,False,False,Benign
+422dc4b72410b5806f6a660b98ab55929ca08d63ee02b9e62565ffd176b7c3fb,0.064545647,False,False,False,False,False,Benign
+1f04ec398436f26001488c48993980bc257412d3d79a342433d2e807e77eb5a1,0.064545647,False,False,False,False,False,Benign
+ee817a2edf392fb2d0a4ec4b569ac1835a2159c54388563a4f8c210c22cb40d4,0.064545647,False,False,False,False,False,Benign
+11bbe895e6eeb2d41f1c5fadbad9a3a50a56de659ff62c58b91cfe3a33ab0510,1.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+9abdcdd34c80420f26eae9b315d50d6742c5656ac61e50079309d5d1c6177154,0.064545645,False,False,False,False,False,Benign
+99481f2e51babdcb853610b65e87c2cb33729e5d2ff92842f2e58decbf1039b2,0.185162711,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ef29c42c2eddeee0784fd66bb12aa301d708b80365ee3ad8dd63d34b813875bf,0.184714221,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e8b1ce4c2cba7b6e15ea1d4e328006ad5083b9c1aea509ade8c505173b11a42d,0.10266315,False,False,False,True,False,High-Frequency Bot Activity
+197461ffb9e45cf5a64e9857cc7c87744ebaa4880670bc60626286b7824e265c,0.067188598,False,False,False,False,False,Benign
+bece0fd2e8c0841a6461c38a550ce146e307589c2c5da3d1ad26ef3c3864f8a0,0.067060561,False,False,False,False,False,Benign
+8965a80cec1b089a67b4e8aa4e07e1ad821fc08c0d1fae83be0ea47a859b87c5,0.067060561,False,False,False,False,False,Benign
+efc3e70da7f164dcb304e1b0d0bf28cddc4e2f7abbd0ad87813af3e95fa0c752,0.067060561,False,False,False,False,False,Benign
+26a499acc76b42ce3a83ccffe4a37442b410d2c16ce7ff3ca2ac124594a5aed3,0.066925975,False,False,False,False,False,Benign
+19cb42043a3b07b1d0dd6c3ff56cd60ce4ca0a5f10cf2f23a0f3d3b4e0e0dd68,0.066925975,False,False,False,False,False,Benign
+c1f0d760e155dce4927fc788febea2f4759a01d233170e30be01c7c46bf0e209,0.564545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+81682c9b329f12f568f62b9280917b74d32cf137f97ab3c459af2cba4db2e85b,0.064545647,False,False,False,False,False,Benign
+a87ceed65a24c46d4ac80d8395956d1d198c1e2c748dcc6d60f2d85a0166a03c,10.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+29c407e417bf0571b8b9528d4d0638545105212646446d66623ad57c96b96577,5.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+81dfbe03dd191f11073206de5293b9be8da2282acc0eeb6b2742abbd73d4973a,2.574545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+e0495c364564a5b5bb49622a17133b0b9a07cb97bb2adbe9da900cbcda73cb4d,2.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+dfb019a7f386f1de0889d0cb271e6014ca68e91b306713ea9dd8a99f8a466b24,2.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c43c62838dfb1159ae711e0064b2d66f11946891a2c1b71e178ea79bb401d757,2.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b7bc17e1d3748ece538487c5261a74e88fda06913e058dd9170a5b6f0e551353,2.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+7ab975a4d57aeb1026d0cbe74b9d78cb7b4fe807e34a6be92c9b57a2dd027099,2.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+781cf3ca71bcc1d7c1e463343fefc3d9fa48cbc7c4b7e438347d3d8665b7b07f,2.064545645,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+ad86e1e0db6ba593012a8379670192973b7106bbdec3747fc5673e269a8eb1f3,0.068938158,False,False,False,False,False,Benign
+7a8e8897d6594a66d7fcbff27c371a52a27013379f17ae0839459da788e3bed2,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+008d5b11a8423f71e6f77168d9303447111113630621c0feacf59f6736c9d3cc,1.168938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+62587845affe0ee980cf012aaf1f89ae79dcea157a410f4fde6a2a004e3fcdd9,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c124a70c179af051f567451d377885cf7d5f5db79bc325d0899bb9771959bf84,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+bca1fd0fb3557a61793760cb687407a2badf783228f37ac3efeb5e95ec5dcad4,3.064918107,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c741d2323bfdc9180cc39abdb31a10f18084d269cf837f11f5c6352a4922e724,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+214a223c567fd92ea389e8d9b8014e69c659b48bf2e99eb4f3bfda7aa4815b7c,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+29ed25d3a396a6e32f1ce4343a97f513026d12144ab6a2a172b450a02470a0e6,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+b3c87f9d96284e23dfd827ef5f3d72aaa19c01cbb2383f6175f6aaf303704e61,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+517270e00a94ccb609281ae9c32e7b444bd263a27c836c27982152c1a8c22ed4,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+298ec76ccb54e6f57c595e1f3fed65baaa845f1ce98ce3afeba01f7663a68d6c,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+0e0c5f6133cd123838ed0644999f9832f7d645627415677ca4c6d77f5a3b618e,2.068938156,False,False,True,True,False,Aggressive Gas Bidding (Likely RBF Winner)
+084b56cd7aed012369a5a1e873f871e6e10f8c3b7b1dfd53806966eeb68f6813,2.068938156,False,False,True,True,False,Aggressive Gas Bidding (Likely RBF Winner)
+57e1f5db603ac3bf319e7b9a31be29cc994d7add72d688f3c2eb49e537198aa2,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5e86699481c3bc583420d0f582ae80d43ace4e65068a3a05900e5ad91b46acfc,0.568938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+c26bd505c45d246f1c3628cc625587ace5cd9d6dc1bfc0de0b807ff0d963b5f6,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+aee66037eafb4b7fbf76ee575c9fb2df7f123b72877db90a476d757f8d5d0d93,0.568938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+98e279fc7cdec529ae7b3599d239c0d7729e4005b4b291eb36e1aa2c70a5f93a,2.168938157,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+053030ba07c152ad67d6870e687ae26238955df95aba2d2672bcce3f358b6d92,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+2eaaabe53c04ac6a0cc38c395d4a63b91cd5b53b5eb72f020ef759244db417d6,2.068938156,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+d221b9b695d0b66a2b645db22d3ab6771bc535f64feef4544643715c5211db86,2.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+430f3de4511a88793ce7de45ee19241f02bce660779d95042cd6f5822fdbf1b0,0.560606963,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+5d769834b7ce7b47abdef9bd78a58d4097796126b39bba6cebfa856da2fceaf2,1.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
+584123b0499d1e39e3a874de29049ef4c34abfbef8631498f72d149b484d9b1c,1.0,False,False,True,False,False,Aggressive Gas Bidding (Likely RBF Winner)
