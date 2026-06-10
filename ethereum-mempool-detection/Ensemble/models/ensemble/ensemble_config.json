@@ -1,0 +1,37 @@
+{
+  "ensemble_type": "Weighted Soft Voting (4-Model Premium)",
+  "models": [
+    "XGBoost",
+    "Random Forest",
+    "Deep MLP",
+    "Transformer"
+  ],
+  "weights": {
+    "XGBoost": 0.2500013749889375,
+    "Random Forest": 0.25000087498668755,
+    "Deep MLP": 0.2499953750279376,
+    "Transformer": 0.25000237499643746
+  },
+  "cv_scores": {
+    "XGBoost": 0.9647,
+    "Random Forest": 0.9646,
+    "Deep MLP": 0.9635,
+    "Transformer": 0.9649
+  },
+  "temperature": 50,
+  "performance": {
+    "accuracy": 0.9654441177888091,
+    "precision": 0.9668779639309855,
+    "recall": 0.9654441177888091,
+    "f1_score": 0.9640901896651554,
+    "improvement_pct": -0.04337558436551259,
+    "error_reduction_pct": -1.2711864406780071,
+    "additional_correct": -9
+  },
+  "model_paths": {
+    "xgboost": "models/xgboost_proposed.pkl",
+    "random_forest": "models/random_forest.pkl",
+    "deep_mlp": "models/deep_mlp.h5",
+    "transformer": "models/transformer"
+  }
+}
