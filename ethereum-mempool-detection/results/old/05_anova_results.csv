@@ -1,0 +1,13 @@
+Feature,F-Score,p-value,Significant
+gas_differential,76447.11016247245,0.0,Yes
+submission_frequency,61648.358867226896,0.0,Yes
+nonce_gap,56923.7102332882,0.0,Yes
+arrival_interval,28428.765718579227,0.0,Yes
+nonce_conflict,22963.617458308338,0.0,Yes
+value,19397.58048572028,0.0,Yes
+gas_volatility,12615.210189378065,0.0,Yes
+gas_price,9494.34008466435,0.0,Yes
+recipient_similarity,5439.658247845108,0.0,Yes
+gas_limit,3190.5184952940767,0.0,Yes
+data_size,1015.9882658632662,0.0,Yes
+balance_adequacy,,,No
